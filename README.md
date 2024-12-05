@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on some cool project ideas!<br>🌱 I’m currently learning OS and embedded systems!<br>
 
 
